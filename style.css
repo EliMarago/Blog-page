@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(180, 192, 224);
+    font-family: "Noto Serif", serif;
+}
+.container
+{
+    width: 400px;
+    height: 640px;
+    background-color: white;
+    background: rgb(254,254,254);
+    background: linear-gradient(0deg, rgba(254,254,254,0.8491990546218487) 87%, rgba(53, 63, 175, 0.884) 37%);
+    margin-top:70px;
+    border-radius: 20px 20px 20px;
+    border: solid 2px rgba(0, 0, 0, 0.816);
+}
+p{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    margin-top: -25px;
+    
+}
+
+svg{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+img{
+    width: 90px;
+    height: 90px;
+    margin-top: 40px;
+    border-radius: 50%;
+    border: solid 3px rgba(53, 63, 175, 0.884);
+
+}
+
+span{
+    margin-left: 20px;
+    font-weight: 600;
+}
+.work
+{
+    color: black;
+    font-size: 10px;
+    margin-right: 95px;
+    margin-top: -59px;
+    font-weight: 200;
+    padding: px;
+}
+
+button{
+float: right;
+border: none;
+background-color: rgba(18, 101, 234, 0.861);
+color: white;
+border-radius: 4px 3px;
+margin-top: -40px;
+margin-right: 20px;
+width: 85px;
+height: 35px;
+cursor: pointer;
+font-weight: 300;
+}
+button:hover{
+    background-color: rgba(50, 50, 247, 0.838);
+}
+h2{
+    font-size: 15px;
+    margin-top: 50px;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.title
+{
+    color: rgba(0, 0, 0, 0.517);
+    font-size: 13px;
+    margin-top: 5px;
+    margin-right: 100px;
+    font-weight: 100;
+}
+
+.description
+{
+    color: black;
+    font-size: 13px;
+margin-top: 9px;
+}
+
+.description-2
+{
+    color: black;
+    font-size: 13px;
+   padding: 6px;
+   margin-right: 22px;
+}
